@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>松鼠尾的树洞</title>
-    <link>http://www.example.com/</link>
+    <link>https://squirrel-tail.github.io/</link>
     <description>Recent content on 松鼠尾的树洞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01-博客</title>
-      <link>http://www.example.com/posts/01-%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://squirrel-tail.github.io/posts/01-%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/01-%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://squirrel-tail.github.io/posts/01-%E5%8D%9A%E5%AE%A2/</guid>
       <description>第一篇博客Link to heading松鼠尾的第一篇博客 用于测试 console.log(&amp;#39;hello world!&amp;#39;) 测试图片Link to heading</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://squirrel-tail.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://squirrel-tail.github.io/about/</guid>
       <description>这是我的博客，欢迎来到我的树洞&amp;hellip;
 开始冒险 </description>
     </item>
     
     <item>
       <title>联系我</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://squirrel-tail.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://squirrel-tail.github.io/contact/</guid>
       <description>dsquirreltail@gmail.com</description>
     </item>
     
     <item>
       <title>项目</title>
-      <link>http://www.example.com/projects/</link>
+      <link>https://squirrel-tail.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>https://squirrel-tail.github.io/projects/</guid>
       <description>什么都没发现&amp;hellip;</description>
     </item>
     

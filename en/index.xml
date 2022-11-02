@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>松鼠尾的树洞</title>
-    <link>http://www.example.com/en/</link>
+    <link>https://squirrel-tail.github.io/en/</link>
     <description>Recent content on 松鼠尾的树洞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01-博客</title>
-      <link>http://www.example.com/en/posts/01-%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://squirrel-tail.github.io/en/posts/01-%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/en/posts/01-%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://squirrel-tail.github.io/en/posts/01-%E5%8D%9A%E5%AE%A2/</guid>
       <description>第一篇博客Link to heading松鼠尾的第一篇博客 用于测试 console.log(&amp;#39;hello world!&amp;#39;) 测试图片Link to heading</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/en/about/</link>
+      <link>https://squirrel-tail.github.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/en/about/</guid>
+      <guid>https://squirrel-tail.github.io/en/about/</guid>
       <description>This is my blog, welcome the magic tree cave&amp;hellip;
 开始冒险 </description>
     </item>

@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/en/posts/01-%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://squirrel-tail.github.io/en/posts/01-%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/posts/01-%E5%8D%9A%E5%AE%A2/"
+                href="https://squirrel-tail.github.io/posts/01-%E5%8D%9A%E5%AE%A2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/01-%E5%8D%9A%E5%AE%A2/"
+                href="https://squirrel-tail.github.io/en/posts/01-%E5%8D%9A%E5%AE%A2/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/tags/blog/</loc>
+    <loc>https://squirrel-tail.github.io/en/tags/blog/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/tags/blog/"
+                href="https://squirrel-tail.github.io/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/blog/"
+                href="https://squirrel-tail.github.io/en/tags/blog/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/categories/blog/</loc>
+    <loc>https://squirrel-tail.github.io/en/categories/blog/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/categories/blog/"
+                href="https://squirrel-tail.github.io/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/blog/"
+                href="https://squirrel-tail.github.io/en/categories/blog/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/posts/</loc>
+    <loc>https://squirrel-tail.github.io/en/posts/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/posts/"
+                href="https://squirrel-tail.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/"
+                href="https://squirrel-tail.github.io/en/posts/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/categories/</loc>
+    <loc>https://squirrel-tail.github.io/en/categories/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/categories/"
+                href="https://squirrel-tail.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/"
+                href="https://squirrel-tail.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/tags/</loc>
+    <loc>https://squirrel-tail.github.io/en/tags/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/tags/"
+                href="https://squirrel-tail.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/"
+                href="https://squirrel-tail.github.io/en/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://squirrel-tail.github.io/en/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/categories/%E5%8D%9A%E5%AE%A2/"
+                href="https://squirrel-tail.github.io/categories/%E5%8D%9A%E5%AE%A2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/%E5%8D%9A%E5%AE%A2/"
+                href="https://squirrel-tail.github.io/en/categories/%E5%8D%9A%E5%AE%A2/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/</loc>
+    <loc>https://squirrel-tail.github.io/en/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/"
+                href="https://squirrel-tail.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/"
+                href="https://squirrel-tail.github.io/en/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/about/</loc>
+    <loc>https://squirrel-tail.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/about/"
+                href="https://squirrel-tail.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/about/"
+                href="https://squirrel-tail.github.io/en/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/authors/</loc>
+    <loc>https://squirrel-tail.github.io/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/authors/"
+                href="https://squirrel-tail.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/authors/"
+                href="https://squirrel-tail.github.io/en/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/series/</loc>
+    <loc>https://squirrel-tail.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.example.com/series/"
+                href="https://squirrel-tail.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/series/"
+                href="https://squirrel-tail.github.io/en/series/"
                 />
   </url>
 </urlset>
