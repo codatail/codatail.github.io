@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>松鼠尾的树洞</title>
-    <link>https://squirrel-tail.github.io/</link>
-    <description>Recent content on 松鼠尾的树洞</description>
+    <title>末尾言说 on 松鼠尾的树洞</title>
+    <link>https://squirrel-tail.github.io/categories/%E6%9C%AB%E5%B0%BE%E8%A8%80%E8%AF%B4/</link>
+    <description>Recent content in 末尾言说 on 松鼠尾的树洞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/categories/%E6%9C%AB%E5%B0%BE%E8%A8%80%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第零期</title>
       <link>https://squirrel-tail.github.io/posts/%E7%AC%AC%E9%9B%B6%E6%9C%9F/</link>
@@ -58,35 +58,6 @@ newsletter 即是如此。
 因为对于“不要和我说这么多，告诉我怎么做就好。”这种观点的批判，直到现在为之仍是值得写一本书来讨论的。（对此感兴趣的可以去读读汉娜阿伦特。）
 但作为第零期，还是有些东西可以谈一谈。
 关于标题党 发表暴论、挑动对立对于增加读者是有用的，但有用不代表一定要这么去做。 我的 newsletter、博客 的作用并不是用来吸引读者的。 或许有其他行动节点会使用争议标题。（劣币驱除良币的结果） 更新哪些内容 我不能保证会更新什么内容，所以很可能出现作者的私藏的各类推荐、观点、近期读的书&amp;hellip;等等。 会有关于自我系统的行动进度 内容会比社交媒体更正式 长度精简，不会长于本期内容 更新时间 每周一期 周日上午发布 其他 newsletter、博客比起其他行动与读者距离会更近 欢迎来邮件告诉我你的想法 写在最后——德尔斐神庙的神谕Link to heading有人去德尔斐神庙问，这世上是否还有比苏格拉底更聪明的人。</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://squirrel-tail.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://squirrel-tail.github.io/about/</guid>
-      <description>这是我的博客，欢迎来到我的树洞&amp;hellip;
-开始冒险 </description>
-    </item>
-    
-    <item>
-      <title>联系我</title>
-      <link>https://squirrel-tail.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://squirrel-tail.github.io/contact/</guid>
-      <description>dsquirreltail@gmail.com</description>
-    </item>
-    
-    <item>
-      <title>行动地图</title>
-      <link>https://squirrel-tail.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://squirrel-tail.github.io/projects/</guid>
-      <description>什么都没发现&amp;hellip;
-似乎有还未记录的行动&amp;hellip;</description>
     </item>
     
   </channel>

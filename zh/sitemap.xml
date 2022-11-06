@@ -2,47 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://squirrel-tail.github.io/posts/01-%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://squirrel-tail.github.io/en/posts/01-%E5%8D%9A%E5%AE%A2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://squirrel-tail.github.io/posts/01-%E5%8D%9A%E5%AE%A2/"
-                />
-  </url><url>
     <loc>https://squirrel-tail.github.io/tags/blog/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://squirrel-tail.github.io/en/tags/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://squirrel-tail.github.io/tags/blog/"
-                />
-  </url><url>
-    <loc>https://squirrel-tail.github.io/categories/blog/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://squirrel-tail.github.io/en/categories/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://squirrel-tail.github.io/categories/blog/"
-                />
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://squirrel-tail.github.io/categories/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,8 +18,11 @@
                 href="https://squirrel-tail.github.io/categories/"
                 />
   </url><url>
+    <loc>https://squirrel-tail.github.io/tags/newsletter/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://squirrel-tail.github.io/tags/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,34 +34,17 @@
                 href="https://squirrel-tail.github.io/tags/"
                 />
   </url><url>
-    <loc>https://squirrel-tail.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://squirrel-tail.github.io/en/categories/%E5%8D%9A%E5%AE%A2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://squirrel-tail.github.io/categories/%E5%8D%9A%E5%AE%A2/"
-                />
+    <loc>https://squirrel-tail.github.io/posts/%E7%AC%AC%E9%9B%B6%E6%9C%9F/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/categories/%E6%9C%AB%E5%B0%BE%E8%A8%80%E8%AF%B4/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://squirrel-tail.github.io/posts/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://squirrel-tail.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://squirrel-tail.github.io/posts/"
-                />
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://squirrel-tail.github.io/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,16 +58,6 @@
   </url><url>
     <loc>https://squirrel-tail.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://squirrel-tail.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://squirrel-tail.github.io/about/"
-                />
   </url><url>
     <loc>https://squirrel-tail.github.io/authors/</loc>
     <xhtml:link
