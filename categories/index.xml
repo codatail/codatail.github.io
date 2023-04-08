@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 松鼠尾的树洞</title>
+    <title>Categories on 🏕️ 林中空地</title>
     <link>https://squirrel-tail.github.io/categories/</link>
-    <description>Recent content in Categories on 松鼠尾的树洞</description>
+    <description>Recent content in Categories on 🏕️ 林中空地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
+    <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
     <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>末尾言说</title>
       <link>https://squirrel-tail.github.io/categories/%E6%9C%AB%E5%B0%BE%E8%A8%80%E8%AF%B4/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      
+      <author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://squirrel-tail.github.io/categories/%E6%9C%AB%E5%B0%BE%E8%A8%80%E8%AF%B4/</guid>
       <description></description>
     </item>

@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://squirrel-tail.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://squirrel-tail.github.io/zh/sitemap.xml</loc>
-    
-      <lastmod>2022-12-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://squirrel-tail.github.io/posts/202212110000/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/tags/blog/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/categories/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/tags/newsletter/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/tags/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/categories/%E6%9C%AB%E5%B0%BE%E8%A8%80%E8%AF%B4/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/202212040000/</loc>
+    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/202211270000/</loc>
+    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/202211200000/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/202211130000/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/202211060000/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/contact/</loc>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/projects/</loc>
+  </url>
+</urlset>

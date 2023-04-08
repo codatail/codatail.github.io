@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 松鼠尾的树洞</title>
+    <title>Tags on 🏕️ 林中空地</title>
     <link>https://squirrel-tail.github.io/tags/</link>
-    <description>Recent content in Tags on 松鼠尾的树洞</description>
+    <description>Recent content in Tags on 🏕️ 林中空地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
+    <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
     <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://squirrel-tail.github.io/tags/blog/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      
+      <author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://squirrel-tail.github.io/tags/blog/</guid>
       <description></description>
     </item>
@@ -20,7 +22,7 @@
       <title>newsletter</title>
       <link>https://squirrel-tail.github.io/tags/newsletter/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      
+      <author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://squirrel-tail.github.io/tags/newsletter/</guid>
       <description></description>
     </item>
