@@ -8,22 +8,13 @@
     <language>zh</language>
     <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
     <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
-    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>https://squirrel-tail.github.io/tags/blog/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <title>talk</title>
+      <link>https://squirrel-tail.github.io/tags/talk/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
       <author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://squirrel-tail.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>newsletter</title>
-      <link>https://squirrel-tail.github.io/tags/newsletter/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://squirrel-tail.github.io/tags/newsletter/</guid>
+      <guid>https://squirrel-tail.github.io/tags/talk/</guid>
       <description></description>
     </item>
     
