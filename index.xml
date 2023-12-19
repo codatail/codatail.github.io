@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🏕️ 林中空地</title>
+    <title>⛩️ 林中空地</title>
     <link>https://squirrel-tail.github.io/</link>
-    <description>Recent content on 🏕️ 林中空地</description>
+    <description>Recent content on ⛩️ 林中空地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
     <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>行动地图</title>
+      <link>https://squirrel-tail.github.io/action/projects/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <guid>https://squirrel-tail.github.io/action/projects/</guid>
+      <description>什么都没发现。 似乎有还未记录的行动&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>如何应对 AI 风暴带来的焦虑，解决之道与思维转换</title>
       <link>https://squirrel-tail.github.io/posts/202304140000/</link>

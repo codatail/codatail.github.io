@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>闲谈 on 🏕️ 林中空地</title>
+    <title>闲谈 on ⛩️ 林中空地</title>
     <link>https://squirrel-tail.github.io/categories/%E9%97%B2%E8%B0%88/</link>
-    <description>Recent content in 闲谈 on 🏕️ 林中空地</description>
+    <description>Recent content in 闲谈 on ⛩️ 林中空地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
     <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://squirrel-tail.github.io/categories/%E9%97%B2%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://squirrel-tail.github.io/categories/%E9%97%B2%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何应对 AI 风暴带来的焦虑，解决之道与思维转换</title>
       <link>https://squirrel-tail.github.io/posts/202304140000/</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://squirrel-tail.github.io/posts/202304140000/</guid>
       <description>如何应对 AI 风暴带来的焦虑，解决之道与思维转换 我们正处于一个犬牙交错的时代。一边是对于新技术山呼海啸般的讨论热潮，另一边则是人人自危的焦虑蔓延</description>
     </item>
-    
     <item>
       <title>AI 总结与摘要功能大概是最值得怀疑的AI应用场景之一</title>
       <link>https://squirrel-tail.github.io/posts/202304100000/</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://squirrel-tail.github.io/posts/202304100000/</guid>
       <description>AI 总结与摘要功能大概是最值得怀疑的应用场景之一 1. 我们的确需要总结与摘要功能，但重点在总结与摘要吗？ 读书、上课、看视频等学习过程中确实会需要总</description>
     </item>
-    
   </channel>
 </rss>

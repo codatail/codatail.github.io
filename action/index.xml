@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行动地图 on ⛩️ 林中空地</title>
+    <link>https://squirrel-tail.github.io/action/</link>
+    <description>Recent content in 行动地图 on ⛩️ 林中空地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
+    <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://squirrel-tail.github.io/action/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>行动地图</title>
+      <link>https://squirrel-tail.github.io/action/projects/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <guid>https://squirrel-tail.github.io/action/projects/</guid>
+      <description>什么都没发现。 似乎有还未记录的行动&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

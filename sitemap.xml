@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://squirrel-tail.github.io/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/about/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/action/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/action/projects/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://squirrel-tail.github.io/tags/ai/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://squirrel-tail.github.io/posts/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://squirrel-tail.github.io/categories/</loc>
@@ -12,12 +27,6 @@
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://squirrel-tail.github.io/tags/talk/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://squirrel-tail.github.io/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://squirrel-tail.github.io/posts/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://squirrel-tail.github.io/posts/202304140000/</loc>
@@ -50,11 +59,6 @@
     <loc>https://squirrel-tail.github.io/grave/00-%E7%AC%AC%E9%9B%B6%E6%9C%9F/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://squirrel-tail.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://squirrel-tail.github.io/contact/</loc>
-  </url><url>
-    <loc>https://squirrel-tail.github.io/projects/</loc>
   </url>
 </urlset>
