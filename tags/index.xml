@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ⛩️ 林中空地</title>
-    <link>https://squirrel-tail.github.io/tags/</link>
-    <description>Recent content in Tags on ⛩️ 林中空地</description>
+    <title>Tags on ⛩️松鼠尾的林中空地</title>
+    <link>https://codatail.github.io/tags/</link>
+    <description>Recent content in Tags on ⛩️松鼠尾的林中空地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
     <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
     <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://squirrel-tail.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codatail.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DaliyRead</title>
-      <link>https://squirrel-tail.github.io/tags/daliyread/</link>
+      <link>https://codatail.github.io/tags/daliyread/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://squirrel-tail.github.io/tags/daliyread/</guid>
+      <guid>https://codatail.github.io/tags/daliyread/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://squirrel-tail.github.io/tags/ai/</link>
+      <link>https://codatail.github.io/tags/ai/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://squirrel-tail.github.io/tags/ai/</guid>
+      <guid>https://codatail.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>talk</title>
-      <link>https://squirrel-tail.github.io/tags/talk/</link>
+      <link>https://codatail.github.io/tags/talk/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://squirrel-tail.github.io/tags/talk/</guid>
+      <guid>https://codatail.github.io/tags/talk/</guid>
       <description></description>
     </item>
   </channel>

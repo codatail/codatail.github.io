@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>每日阅读 on ⛩️ 林中空地</title>
-    <link>https://squirrel-tail.github.io/categories/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
-    <description>Recent content in 每日阅读 on ⛩️ 林中空地</description>
+    <title>每日阅读 on ⛩️松鼠尾的林中空地</title>
+    <link>https://codatail.github.io/categories/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 每日阅读 on ⛩️松鼠尾的林中空地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
     <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
     <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://squirrel-tail.github.io/categories/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codatail.github.io/categories/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📡DailyRead 01 读汪丁丁《微信时代的读书捷径》</title>
-      <link>https://squirrel-tail.github.io/posts/202312200000/</link>
+      <link>https://codatail.github.io/posts/202312200000/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://squirrel-tail.github.io/posts/202312200000/</guid>
+      <guid>https://codatail.github.io/posts/202312200000/</guid>
       <description>📡DailyRead 01 读汪丁丁《微信时代的读书捷径》 前言 今天推荐一篇汪丁丁老师的文章：微信时代的读书捷径 在这篇文章里，汪老师由微信时代的阅读</description>
     </item>
   </channel>
