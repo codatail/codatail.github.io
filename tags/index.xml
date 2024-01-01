@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ⛩️林中空地</title>
+    <title>Tags on 林中歧路</title>
     <link>https://codatail.github.io/tags/</link>
-    <description>Recent content in Tags on ⛩️林中空地</description>
+    <description>Recent content in Tags on 林中歧路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>dsquirreltail@gmail.com (松鼠尾)</managingEditor>
     <webMaster>dsquirreltail@gmail.com (松鼠尾)</webMaster>
-    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://codatail.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DaliyRead</title>
       <link>https://codatail.github.io/tags/daliyread/</link>
-      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://codatail.github.io/tags/daliyread/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>笔记方法</title>
+      <link>https://codatail.github.io/tags/%E7%AC%94%E8%AE%B0%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <guid>https://codatail.github.io/tags/%E7%AC%94%E8%AE%B0%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>读书方法</title>
+      <link>https://codatail.github.io/tags/%E8%AF%BB%E4%B9%A6%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <guid>https://codatail.github.io/tags/%E8%AF%BB%E4%B9%A6%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>卢曼</title>
+      <link>https://codatail.github.io/tags/%E5%8D%A2%E6%9B%BC/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
+      <guid>https://codatail.github.io/tags/%E5%8D%A2%E6%9B%BC/</guid>
       <description></description>
     </item>
     <item>
@@ -36,13 +57,6 @@
       <link>https://codatail.github.io/tags/%E6%B1%AA%E4%B8%81%E4%B8%81/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
       <guid>https://codatail.github.io/tags/%E6%B1%AA%E4%B8%81%E4%B8%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>读书方法</title>
-      <link>https://codatail.github.io/tags/%E8%AF%BB%E4%B9%A6%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate><author>dsquirreltail@gmail.com (松鼠尾)</author>
-      <guid>https://codatail.github.io/tags/%E8%AF%BB%E4%B9%A6%E6%96%B9%E6%B3%95/</guid>
       <description></description>
     </item>
     <item>
